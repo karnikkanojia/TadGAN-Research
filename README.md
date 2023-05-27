@@ -12,7 +12,7 @@ Welcome to the Stock Market Manipulation using Deep Learning research project! T
 - `data/`: Includes curated datasets for training and testing the models.
 - `results/`: Stores the research findings, experimental results, and analysis reports.
 - `assets/`: Houses supplementary materials, such as diagrams and visualizations.
-- `loader/`: Contains TAnoGAN dataloader for tensorflow.
+- `loader/`: Contains TAnoGAN dataloader for tensorflow API.
 
 ## Getting Started 🚗
 
