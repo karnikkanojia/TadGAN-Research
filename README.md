@@ -29,6 +29,9 @@ To get started with the research project, follow these steps:
 
 We welcome contributions from the research community to enhance and expand this project. If you find any issues, have suggestions, or want to add new features, please feel free to submit a pull request. We appreciate your contributions!
 
+## Presentation Link  📺
+You can find our presentation in our `docs/` folder or on this [link](https://www.canva.com/design/DAFdeLZutCc/LSwCGZGFuNqjfTzdX8751A/edit?utm_content=DAFdeLZutCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
 ## Contact Information 📞
 
 For any questions or inquiries regarding the project, please reach out to:
