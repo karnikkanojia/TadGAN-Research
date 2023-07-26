@@ -105,7 +105,7 @@ networkx==2.6.3
 nltk==3.8.1
 numba==0.51.2
 numexpr==2.8.4
-numpy==1.18.5
+numpy==1.24.5
 oauthlib==3.2.2
 opt-einsum==3.3.0
 orion-ml==0.4.1
