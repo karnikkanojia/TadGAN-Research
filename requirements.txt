@@ -189,7 +189,7 @@ tqdm==4.65.0
 traitlets==5.7.1
 typing_extensions==4.6.3
 tzdata==2023.3
-tzlocal==5.0.1
+tzlocal==4.3
 urllib3==1.26.16
 validators==0.20.0
 watchdog==3.0.0
