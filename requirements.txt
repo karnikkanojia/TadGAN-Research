@@ -105,9 +105,8 @@ networkx==2.6.3
 nltk==3.8.1
 numba==0.51.2
 numexpr==2.8.4
-numpy==1.18.5
+numpy==1.20.3
 oauthlib==3.2.2
-opencv-python==3.4.11
 opt-einsum==3.3.0
 orion-ml==0.4.1
 packaging==23.0
@@ -190,7 +189,7 @@ tqdm==4.65.0
 traitlets==5.7.1
 typing_extensions==4.6.3
 tzdata==2023.3
-tzlocal==5.0.1
+tzlocal==4.3
 urllib3==1.26.16
 validators==0.20.0
 watchdog==3.0.0
