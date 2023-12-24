@@ -31,13 +31,13 @@
             "axis": 2
         },
         "orion.primitives.aer.AER#1": {
-            "epochs": 35
+            "epochs": 50
         },
         "orion.primitives.aer.score_anomalies#1": {
             "rec_error_type": "dtw",
             "comb": "mult",
             "mask": true,
-            "lambda_rec": 0.5
+            "lambda_rec": 0.2
         },
         "orion.primitives.timeseries_anomalies.find_anomalies#1": {
             "window_size_portion": 0.33,
